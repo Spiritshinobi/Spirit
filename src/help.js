@@ -5,7 +5,7 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : SPIRIT
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,9 +15,9 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *BOTTEST* 
+╠🐉 𝐃𝐎𝐍𝐎: SPIRIT (base dark) 
+╠🐉 *wa.me/+555198377746*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -76,31 +76,14 @@ ____██_____██
 ║🐊 *${prefix}loli1*
 ║🐊 *${prefix}hentai*
 ║🐊 *${prefix}dono*
-║🐊 *${prefix}porno*
 ║🐊 *${prefix}boanoite*
 ║🐊 *${prefix}bomdia*
 ║🐊 *${prefix}boatarde*
-║🐊 *${prefix}mia [aleatórias]*
-║🐊 *${prefix}rize [aleatórias]*
-║🐊 *${prefix}minato [aleatórias]*
-║🐊 *${prefix}boruto [aleatórias]*
-║🐊 *${prefix}hinata [aleatórias]*
-║🐊 *${prefix}sasuke [aleatórias]*
-║🐊 *${prefix}sakura [aleatórias]*
-║🐊 *${prefix}naruto [aleatórias]*
 ║🐊 *${prefix}meme*   
 ║🐊 *${prefix}lofi*
-║🐊 *${prefix}malkova*
 ║🐊 *${prefix}canal*
 ║🐊 *${prefix}nsfwloli1*
 ║🐊 *${prefix}reislin*
-║
-╠══🐰〘 INTELIGÊNCIA 〙🐰══
-║
-║🐊 *${prefix}simih 1 (para ativar)*
-║🐊 *${prefix}simih 0 (para desativar)*
-║ *${prefix}simi (sua mensagem)*
-║
 ╠══🐰〘 EM PRODUÇÃO 〙🐰══
 ║
 ║🐊 *${prefix}gado*
@@ -177,7 +160,6 @@ ____██_____██
 ║🐊 *${prefix}rize*
 ║🐊 *${prefix}ytsearch*
 ║🐊 *${prefix}moddroid [jogo/app]*
-║🐊 *${prefix}xvideos [titulo]**
 ║🐊 *${prefix}nomegp*
 ║🐊 *${prefix}darkjokes (memes aleatórios)*
 ║🐊 *${prefix}animecry*
@@ -226,18 +208,16 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 BOTTEST 〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
+║ *NOME: SPIRIT*
+║ *WPP: wa.me/+555198377746*
 ║ *YOUTUBE: https://youtube.com/c/caussZ*
 ║
-║  *"base do lindo (DARK BOT 4.0)🐊🚩*
-║  *"kiba não xereka"*
+║  *"Base -> (DARK BOT 4.0)🐊🚩*
 ║  *Número do dark: wa.me/+5522996215481
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 BOTTEST 〙`
 }
 
 exports.help = help
