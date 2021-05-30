@@ -58,7 +58,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:Causs\n' // Nama kamu
             + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=554792091566:+55 47992091566\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=555198377746:+555198377746\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '.','!','#'
 blocked = []
@@ -290,20 +290,20 @@ async function starts() {
 					premium: '[❗] ESTE PEDIDO É SO PARA *USUÁRIOS PREMIUMS*',
 					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD CAUSS BOT*',
 					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
-					ownerG: '[❗] Causs? Este é um recurso especial para o Causs ❌',
-					ownerB: '[❗] Causs? Este é um recurso especial para o Causs ❌',
-					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo de CAUSS. Registre-se para fazer amizade com o bot Causs por meio, \n\nCommand : ${prefix}daftar nama|idade\nExemplo : ${prefix}daftar Causs|17\n\n──「 CAUSS BOT 」──`,
+					ownerG: '[❗] Spirit? Este é um recurso especial para o Spirit ❌',
+					ownerB: '[❗] Spirit? Este é um recurso especial para o Spirit ❌',
+					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo de Spirit. Registre-se para fazer amizade com o bot Causs por meio, \n\nCommand : ${prefix}daftar nama|idade\nExemplo : ${prefix}daftar Causs|17\n\n──「 CAUSS BOT 」──`,
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: ' [❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["554792091566@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"554792091566@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["554792091566@s.whatsapp.net"]//ubah nomor lo
-			const frendsowner = ["554792091566@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["554792091566@s.whatsapp.net","558296156440@s.whatsapp.net"] 
+			const ownerNumber = ["555198377746@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"555198377746@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["555198377746@s.whatsapp.net"]//ubah nomor lo
+			const frendsowner = ["555198377746@s.whatsapp.net"]//ubah nomor lo
+			const premium = ["555198377746@s.whatsapp.net","558296156440@s.whatsapp.net"] 
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
