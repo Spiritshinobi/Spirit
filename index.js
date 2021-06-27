@@ -25,7 +25,7 @@ const { addfoto } = require('./src/addfoto')
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
-const fs = require('fs')
+const fs = require('fs') 
 const anime = JSON.parse(fs.readFileSync('./database/json/anime.json'))
 const antiracismo = JSON.parse(fs.readFileSync('./database/json/antiracismo.json'))
 const nsfw = JSON.parse(fs.readFileSync('./database/json/nsfw.json'))
@@ -180,6 +180,8 @@ const getLevelingXp = (userId) => {
             }
         }
 
+
+               
 
 function kyun(seconds){
   function pad(s){
@@ -1040,9 +1042,15 @@ if (text.includes("placa"))
 
 				becry = `${body.slice(10)}`
 				anu = await fetchJson(`https://api.i-tech.id/hash/bcrypt?key=${TechApi}&string=${becry}`, {method: 'get'})
+case '.gay':
+					memein = await kagApi.memeindo()
+					buffer = await getBuffer(`https://i.ibb.co/X2HPFBG/IMG-20210529-WA0195.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'muito gay'})
+					break
 				frhan.sendMessage(from, `${anu.result}`, text, {quoted: mek})
 				await limitAdd(sender) 
 				break 
+
 					case 'hashidentifier':
 
 					  hash = `${body.slice(16)}`
