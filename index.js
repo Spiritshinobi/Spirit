@@ -1488,6 +1488,48 @@ case '.gay':
                     break
 					
 					
+					
+					
+					case 'vilafolha':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/JHnR2HW/20210704-200719-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Konoha'})
+                    break
+					
+						case 'vilaareia':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/z8HhmyV/20210704-200723-3.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Suna'})
+                    break
+					
+					case 'vilaagua':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/7YKfKP5/20210704-200727-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kiri'})
+                    break
+					
+					
+					case 'vilapedra':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/4Z5QLcK/20210704-200732-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Iwa'})
+                    break
+					
+					
+					case 'vilanuvem':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/zPzjBXm/20210704-200737-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kumo'})
+                    break
+					
+					
+					
+					
+					
+					
+					
+					
+					
 					case 'shinobispirit2':
 					reply(mess.wait)
 					anu = await fetchJson(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`, {method: 'get'})
