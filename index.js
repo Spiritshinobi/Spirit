@@ -1481,11 +1481,20 @@ case '.gay':
 					
 					
 					
-					case '(.shinobispirit)':
+					case 'shinobispirit':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`)
                     client.sendMessage(from, buffer, image, {quoted: mek, caption: 'baita teste'})
                     break
+					
+					
+					case 'shinobispirit2':
+					reply(mess.wait)
+					anu = await fetchJson(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					bufferjj = await getBuffer(anu.result.pdf_file)
+					client.sendMessage(from, bufferjj, document, {mimetype: 'document/pdf', quoted: mek})
+					break
 					
 					
 					
