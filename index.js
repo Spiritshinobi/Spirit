@@ -1477,6 +1477,20 @@ case '.gay':
                       buff = await getBuffer(anu.result)
                       client.sendMessage(from, buff, image, {quoted: mek})
                       break
+					
+					
+					
+					
+					case '(.testebot)':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'baita teste'})
+                    break
+					
+					
+					
+					
+					
 					break
 				case 'nulis':
 				case 'tulis':
