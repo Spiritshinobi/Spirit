@@ -1481,7 +1481,7 @@ case '.gay':
 					
 					
 					
-					case '(.testebot)':
+					case '(.testebotrpg2)':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`)
                     client.sendMessage(from, buffer, image, {quoted: mek, caption: 'baita teste'})
