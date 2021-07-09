@@ -1493,7 +1493,7 @@ case '.gay':
 					case 'vilafolha':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/JHnR2HW/20210704-200719-2.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Konoha'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Teste02'})
                     break
 					
 						case 'vilaareia':
@@ -1522,9 +1522,16 @@ case '.gay':
                     client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kumo'})
                     break
 					
+
+
+
 					
 					
-					
+					case 'konohateste01':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/JHnR2HW/20210704-200719-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Teste'})
+                    break
 					
 					
 					
