@@ -1481,7 +1481,7 @@ case '.gay':
 					
 					
 					
-					case 'shinobispirit':
+					case 'testandobot01':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/Gx8jtGM/IMG-20210529-WA0177.jpg`)
                     client.sendMessage(from, buffer, image, {quoted: mek, caption: 'baita teste'})
@@ -1493,33 +1493,33 @@ case '.gay':
 					case 'vilafolha':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/JHnR2HW/20210704-200719-2.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Teste02'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Konoha (Obs: É apenas uma representação da vila e não seu personagem final.)'})
                     break
 					
 						case 'vilaareia':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/z8HhmyV/20210704-200723-3.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Suna'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Suna (Obs: É apenas uma representação da vila e não seu personagem final.)'})
                     break
 					
 					case 'vilaagua':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/7YKfKP5/20210704-200727-2.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kiri'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kiri (Obs: É apenas uma representação da vila e não seu personagem final.)'})
                     break
 					
 					
 					case 'vilapedra':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/4Z5QLcK/20210704-200732-2.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Iwa'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Iwa (Obs: É apenas uma representação da vila e não seu personagem final.)'})
                     break
 					
 					
 					case 'vilanuvem':
                     memein = await kagApi.memeindo()
                     buffer = await getBuffer(`https://i.ibb.co/zPzjBXm/20210704-200737-2.jpg`)
-                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kumo'})
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Kumo (Obs: É apenas uma representação da vila e não seu personagem final.)'})
                     break
 					
 
@@ -1532,6 +1532,513 @@ case '.gay':
                     buffer = await getBuffer(`https://i.ibb.co/JHnR2HW/20210704-200719-2.jpg`)
                     client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Teste'})
                     break
+					
+					case 'cf1':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Sck0FNb/20210711-001734-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 1'})
+                    break
+					
+					case 'cf2':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/crRHQvz/20210711-001739-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 2'})
+                    break
+					
+					case 'cf3':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/c22xpZ0/20210711-001822-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 3'})
+                    break
+					
+					case 'cf4':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/TwSYBBS/20210711-001828-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 4'})
+                    break
+					
+					case 'cf5':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/zPwBmBg/20210711-001832-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 5'})
+                    break
+					
+					case 'cf6':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/qBtDPnr/20210711-001835-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 6'})
+                    break
+					
+					case 'cf7':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/XWJTFS2/20210711-001858-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 7'})
+                    break
+					
+					case 'cf8':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/87HcgVD/20210711-001903-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 8'})
+                    break
+					
+					case 'cf9':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/M7JpvBb/20210711-001910-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 9'})
+                    break
+					
+					case 'cf10':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/m0Cswkz/20210711-001914-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 10'})
+                    break
+					
+					case 'cf11':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/qBynQ17/20210711-001918-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 11'})
+                    break
+					
+					case 'cf12':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/znMn8BK/20210711-001921-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 12'})
+                    break
+					
+					case 'cf13':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/JBX9MNx/20210711-001930-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 13'})
+                    break
+					
+					case 'cf14':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/WWNqXsd/20210711-001935-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 14'})
+                    break
+					
+					case 'cf15':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/q0M3g1D/20210711-001940-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 15'})
+                    break
+					
+					case 'cf16':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/0GgJSYc/20210711-001943-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 16'})
+                    break
+					
+					case 'cf17':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/9gPGQFb/20210711-001948-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 17'})
+                    break
+					
+					case 'cf18':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/x3wv54Y/20210711-001955-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 18'})
+                    break
+					
+					case 'cf19':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/3zGt31z/20210711-001959-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 19'})
+                    break
+					
+					case 'cf20':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/2NwBTvj/20210711-002014-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 20'})
+                    break
+					
+					case 'cf21':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/yp2FZZW/20210711-002058-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Cabelo Feminino 21'})
+                    break
+					case 'sobrf1':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/yp2FZZW/20210711-002058-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 1'})
+                    break
+					
+					case 'sobrf1':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/415Nch7/1.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 1'})
+                    break
+					
+					case 'sobrf2':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/7KMKjFx/2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 2'})
+                    break
+					
+					case 'sobrf3':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/5KT4MLX/3.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 3'})
+                    break
+					
+					case 'sobrf4':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Fqx8rbd/4.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 4'})
+                    break
+					
+					case 'sobrf5':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/YBD1dFr/5.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 5'})
+                    break
+					
+					case 'sobrf6':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/8rz05qc/6.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 6'})
+                    break
+					
+					case 'sobrf7':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/zPkgbF7/7.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 7'})
+                    break
+					
+					case 'sobrf8':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/XyqCwSY/8.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 8'})
+                    break
+					
+					case 'sobrf9':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/yQpX3nX/9.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 9'})
+                    break
+					
+					case 'sobrf10':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/2YJXN9g/10.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Sobrancelha 10'})
+                    break
+					
+					
+					case 'pf1':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/xFvR0SW/1.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 1'})
+                    break
+					
+					case 'pf2':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/98QzhjK/20210711-002158-2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 2'})
+                    break
+					
+					case 'pf3':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/YLBGSwx/3.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 3'})
+                    break
+					
+					case 'pf4':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/274RzBY/4.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 4'})
+                    break
+					
+					case 'pf5':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/kQVGyQh/5.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 5'})
+                    break
+					
+					case 'pf6':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/42n50sx/6.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 6'})
+                    break
+					
+					case 'pf7':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Wz7DvPb/7.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 7'})
+                    break
+					
+					case 'pf8':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/dtRh8NS/8.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 8'})
+                    break
+					
+					case 'pf9':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/dQc2nqk/9.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 9'})
+                    break
+					
+					case 'pf10':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/pPPsxKf/10.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 10'})
+                    break
+					
+					case 'pf11':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/PND1c5f/11.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 11'})
+                    break
+					
+					case 'pf12':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/nnXmZF8/12.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 12'})
+                    break
+					
+					case 'pf13':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/R6YfQ8J/13.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 13'})
+                    break
+					
+					case 'pf14':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/T46sdPp/14.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 14'})
+                    break
+					
+					case 'pf15':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/wJSPpz7/15.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 15'})
+                    break
+					
+					case 'pf16':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/ZBkYn34/16.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 16'})
+                    break
+					
+					case 'pff17':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/8dnshtg/17.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 17'})
+                    break
+					
+					case 'pf18':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/pz62GfB/18.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 18'})
+                    break
+					
+					case 'pf19':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/bsVFb5x/19.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 19'})
+                    break
+					
+					case 'pf20':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/fM1VD3w/20.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 20'})
+                    break
+					
+					case 'pf21':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/2g94Zjb/21.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 21'})
+                    break
+					
+					case 'pf22':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/ykJJg9V/22.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 22'})
+                    break
+					
+					case 'pf23':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/rb8JCM0/23.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 23'})
+                    break
+					
+					case 'pf24':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Tqxbhmv/24.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 24'})
+                    break
+					
+					case 'pf25':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/hCmt7rK/25.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 25'})
+                    break
+					
+					case 'pf26':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/0yBW2pR/26.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 26'})
+                    break
+					
+					case 'pf27':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/5rxZsJX/27.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pintura Facial 27'})
+                    break
+					
+					case 'acs1':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/ZWLNZtm/1.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 1'})
+                    break
+					
+					case 'acs2':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/PDb8LRt/2.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 2'})
+                    break
+					
+					case 'acs3':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/B2JHjLX/3.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 3'})
+                    break
+					
+					case 'acs4':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/Q8ZX9SQ/4.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 4'})
+                    break
+					
+					case 'acs5':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/XzznK3V/5.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 5'})
+                    break
+					
+					case 'acs6':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/cvXsG0H/6.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 6'})
+                    break
+					
+					case 'acs7':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/WyZ3j0n/7.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 7'})
+                    break
+					
+					case 'acs8':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/zP0vvsS/8.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 8'})
+                    break
+					
+					case 'acs9':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/DYVJHRm/9.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 9'})
+                    break
+					
+					case 'acs10':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/wcSPxLN/10.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 10'})
+                    break
+					
+					case 'acs11':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/HYGwCpP/11.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 11'})
+                    break
+					
+					case 'acs12':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/r5nLBgJ/12.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 12'})
+                    break
+					
+					case 'acs13':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/qmnsn9C/13.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 13'})
+                    break
+					
+					case 'acs14':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/hRGfGx5/14.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 14'})
+                    break
+					
+					case 'acs15':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/QnsYNgP/15.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 15'})
+                    break
+					
+					case 'acs16':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/N3yknTc/16.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 16'})
+                    break
+					
+					case 'acs17':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/vBkxLxZ/17.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 17'})
+                    break
+					
+					case 'acs18':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/d7ksq80/18.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 18'})
+                    break
+					
+					case 'acs19':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/MpzDq4M/19.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 19'})
+                    break
+					
+					case 'acs20':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/KDj83Y6/21.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 20'})
+                    break
+					
+					case 'acs21':
+                    memein = await kagApi.memeindo()
+                    buffer = await getBuffer(`https://i.ibb.co/vDq7Pzv/22.jpg`)
+                    client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Acessório 21'})
+                    break
+					
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
 					
 					
 					
